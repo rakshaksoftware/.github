@@ -1,4 +1,4 @@
-# Rakshak Software Subsystem �
+# Rakshak Software Subsystem 
 
 Welcome to **Rakshak Software**, the UAV (Unmanned Aerial Vehicle) software development division focused on advancing autonomous flight systems, computer vision, and intelligent aerial platforms.
 
